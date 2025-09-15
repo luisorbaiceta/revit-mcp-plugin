@@ -37,6 +37,56 @@
       "commandName": "delete_element",
       "description": "Deletes elements using ElementId",
       "assemblyPath": "SampleCommandSet.dll"
+    },
+    {
+      "commandName": "get_view_crop_info",
+      "description": "Gets the crop information of the active view",
+      "assemblyPath": "SampleCommandSet.dll"
+    },
+    {
+      "commandName": "set_view_crop_info",
+      "description": "Sets the crop information of the active view",
+      "assemblyPath": "SampleCommandSet.dll"
+    },
+    {
+      "commandName": "get_view_settings",
+      "description": "Gets the settings of the active view",
+      "assemblyPath": "SampleCommandSet.dll"
+    },
+    {
+      "commandName": "set_view_settings",
+      "description": "Sets the settings of the active view",
+      "assemblyPath": "SampleCommandSet.dll"
+    },
+    {
+      "commandName": "create_sheet",
+      "description": "Creates a new sheet",
+      "assemblyPath": "SampleCommandSet.dll"
+    },
+    {
+      "commandName": "get_sheet_info",
+      "description": "Gets information about a sheet",
+      "assemblyPath": "SampleCommandSet.dll"
+    },
+    {
+      "commandName": "add_view_to_sheet",
+      "description": "Adds a view to a sheet",
+      "assemblyPath": "SampleCommandSet.dll"
+    },
+    {
+      "commandName": "remove_view_from_sheet",
+      "description": "Removes a view from a sheet",
+      "assemblyPath": "SampleCommandSet.dll"
+    },
+    {
+      "commandName": "get_table_view_info",
+      "description": "Gets information about a table view (schedule or legend)",
+      "assemblyPath": "SampleCommandSet.dll"
+    },
+    {
+      "commandName": "get_table_cell_text",
+      "description": "Gets the text from a cell in a table view",
+      "assemblyPath": "SampleCommandSet.dll"
     }
   ]
 }
